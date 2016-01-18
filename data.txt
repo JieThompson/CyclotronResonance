@@ -1,0 +1,1 @@
+f[Ghz], omega(Y), B(x), omega_t(Y)
